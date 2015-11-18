@@ -12,7 +12,7 @@
 
 <!-- @section -->
 
-# What is this page?
+# What is this page for?
 
 This is a placeholder Learning Module for you to customize.  Look in the `my-outlearn-module.md` to see how it is coded up, and then start editing away with your own content.
 
